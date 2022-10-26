@@ -32,3 +32,7 @@ d. Execute o comando: docker container run -p 8080:8080
 5. No arquivo README.md, inclua uma seção com as principais dificuldades que você enfrentou para concluir este roteiro.
 
     A principal foi com relação na criação da aplicação em java web e o artefato em .war que até por isso, não foi possível ser realizado. O restante foi bem tranquilo e serviu com uma boa revisão.
+
+### Para executar o docker, insira o comando:
+    sudo docker compose up
+    
